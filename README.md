@@ -5,9 +5,9 @@
 </div>
 
 ### 👨‍🎓 Sobre mim
-- 18 anos
+- 19 anos
+- Estagiária na Accenture Liquid Studio
 - Cursando bacharelado em Ciência da Computação
-- Estagiando na Accenture Brasil
 - Técnica em Informática Para Internet
 <div style="display: inline_block">
   <img align="center" alt="Agda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
